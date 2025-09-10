@@ -12,7 +12,7 @@ This project answers key questions:
 
 **Live Dashboard:** [View on Tableau Public](https://public.tableau.com/views/AttritionAnalysis_17529149329710/HRSummary?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ## Dashboard Preview
-![Analysis](Resources/Analysis.png) 
+![Analysis](Resources/Analytics.png) 
 ![Details](Resources/Details.png)
 
 ## Workflow Details
